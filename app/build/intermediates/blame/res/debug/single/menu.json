@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/michelle/AndroidStudioProjects/HM_ch09_ex4_NewsReader/app/build/intermediates/res/merged/debug/menu/activity_items.xml",
+        "source": "/home/michelle/AndroidStudioProjects/HM_ch09_ex4_NewsReader/app/src/main/res/menu/activity_items.xml"
+    },
+    {
+        "merged": "/home/michelle/AndroidStudioProjects/HM_ch09_ex4_NewsReader/app/build/intermediates/res/merged/debug/menu/activity_item_2.xml",
+        "source": "/home/michelle/AndroidStudioProjects/HM_ch09_ex4_NewsReader/app/src/main/res/menu/activity_item_2.xml"
+    }
+]

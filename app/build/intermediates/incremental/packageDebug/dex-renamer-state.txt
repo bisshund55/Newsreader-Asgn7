@@ -1,0 +1,7 @@
+#Sun Jun 04 20:31:10 PDT 2017
+base.0=/home/michelle/AndroidStudioProjects/HM_ch09_ex4_NewsReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f0fdf065d0523adff1f100a2beda41f586fdf9c2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/michelle/AndroidStudioProjects/HM_ch09_ex4_NewsReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eecbb89f117d92920b7cc6a2625d28d513fb2650/classes.dex
+base.1=/home/michelle/AndroidStudioProjects/HM_ch09_ex4_NewsReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eecbb89f117d92920b7cc6a2625d28d513fb2650
+file.0=/home/michelle/AndroidStudioProjects/HM_ch09_ex4_NewsReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f0fdf065d0523adff1f100a2beda41f586fdf9c2/classes.dex

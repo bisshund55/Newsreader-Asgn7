@@ -1,0 +1,4 @@
+#Sun Jun 04 19:47:42 PDT 2017
+base.0=/home/michelle/AndroidStudioProjects/HM_ch09_ex4_NewsReader/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/home/michelle/AndroidStudioProjects/HM_ch09_ex4_NewsReader/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex
